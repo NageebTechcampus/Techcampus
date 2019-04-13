@@ -4,3 +4,7 @@ if you want to create new folder in you repository do the following:
 2- write folder name like this :  homework/
 3- the folder will be created, then write the file name : test and press enter
 4- if you want to get back to the root folder just use : ../
+5- to download github desktop:
+	- go to main respoitory screen
+	- click on download or clone
+	- select github desktop
